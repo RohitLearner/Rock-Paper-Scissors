@@ -8,10 +8,23 @@ For this challenge, you will create a program to play Rock, Paper, Scissors. A p
 
 You can start your access to this challenge via [the full project description and starter code on repl.it](https://repl.it/github/freeCodeCamp/boilerplate-rock-paper-scissors).
 
-After going to that link, fork the project and HAPPY CODING !!!
+After going to that link, fork the project and "HAPPY CODING" !!!
 
 ## Code
 All different solution approaches are stored in `solution` folder. All code section are in `code` folder and the detailed description of the data can be found in [Repl.it](https://repl.it/@rohitsingh28/boilerplate-rock-paper-scissors#README.md).
+
+To run the project, do the following steps:
+
+ 1. Dowload the Repo.
+ 2. Move to Code Portion
+ 3. `python3 main.py`
+ 4. `python3 test_module.py`
+ 5. Check if win rate against all players is more than 60%.
+ 6. Following output should be present in the end.
+
+> Ran 4 tests in in X.XXX s
+
+> OK
 
 ## Contributors
 
